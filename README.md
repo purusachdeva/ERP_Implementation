@@ -93,14 +93,16 @@ The objective was to design and implement a centralized issue tracking system to
 ## 🎥 Demo
 
 A demo video of the system is available here:
-[https://github.com/purusachdeva/ERP_Implementation/blob/main/Presentation%20Video.mp4]
+**<a href="https://github.com/purusachdeva/ERP_Implementation/blob/main/Presentation%20Video.mp4" target="_blank" rel="noopener noreferrer">Video</a>**
+
 
 ---
 
 ## 📄 Documentation
 
 A detailed structured report of the project can be found here:
-[https://github.com/purusachdeva/ERP_Implementation/blob/main/ERP_Implementation_Report.pdf]
+**<a href="https://github.com/purusachdeva/ERP_Implementation/blob/main/ERP_Implementation_Report.pdf" target="_blank" rel="noopener noreferrer">Report</a>**
+
 
 ---
 
