@@ -6,6 +6,13 @@ This project was developed during my Software Engineering internship at AWC Soft
 
 The objective was to design and implement a centralized issue tracking system to streamline bug reporting, tracking, and resolution across ERP modules, specifically focusing on Store Requisition (SR) and Store Return Warrant (SRW) workflows.
 
+
+---
+
+## 🖼️ Poster
+
+![ERP Poster](erp_poster.png)
+
 ---
 
 ## 🚀 Key Highlights
